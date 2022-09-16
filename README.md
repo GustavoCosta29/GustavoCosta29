@@ -7,8 +7,6 @@
 - 📫 Contacte me no email: gucostapt@gmail.com
 - 😄 Pronouns: ele/dele
 
-##
-
 <div align="center">
   <a href="https://github.com/GustavoCosta29">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GustavoCosta29&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
