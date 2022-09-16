@@ -5,7 +5,7 @@
 - 🔭 Looking for the first opportunity in the programming area.
 - 🌱 Studying React and Node (Alura). 
 - 📫 Contact me on email: gucostapt@gmail.com
-- 😄 Pronouns: ele/dele
+- 😄 Pronouns: he/him
 
 <div align="center">
   <a href="https://github.com/GustavoCosta29">
