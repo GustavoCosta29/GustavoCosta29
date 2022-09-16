@@ -1,10 +1,10 @@
-## Olá eu sou o Gustavo Costa 👋
+## Hi I'm Gustavo Costa 👋
 
 
 
-- 🔭 Em busca da primeira oportunidade na area de programação.
-- 🌱 Estudando React and Node (Alura). 
-- 📫 Contacte me no email: gucostapt@gmail.com
+- 🔭 Looking for the first opportunity in the programming area.
+- 🌱 Studying React and Node (Alura). 
+- 📫 Contact me on email: gucostapt@gmail.com
 - 😄 Pronouns: ele/dele
 
 <div align="center">
@@ -16,6 +16,8 @@
   <img align="center" alt="Gus-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gus-React" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Gus-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   
 </div>
 <br><br>
