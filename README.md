@@ -3,7 +3,7 @@
 
 
 - 🔭 Looking for the first opportunity in the programming area.
-- 🌱 Studying React and Node (Alura). 
+- 🌱 Studying React.js and Node.js (Alura). 
 - 📫 Contact me on email: gucostapt@gmail.com
 - 😄 Pronouns: he/him
 
