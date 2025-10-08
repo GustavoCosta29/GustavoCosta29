@@ -18,7 +18,7 @@
   <img align="center" alt="Gus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gus-React" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Gus-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Gus-Python" width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/27d6b7c3-511c-4d45-8fb3-3a5a2200c1e7" />
+  <img align="center" alt="Gus-Python" height="30" width="40" alt="image" src="https://github.com/user-attachments/assets/27d6b7c3-511c-4d45-8fb3-3a5a2200c1e7" />
   
 </div>
 <br><br>
