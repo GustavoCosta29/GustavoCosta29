@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Looking for the first opportunity in the programming area.
-- 🌱 Studying React.js and Node.js (Alura). 
+- 🔭 Looking for the first opportunity in the Analyst area.
+- 🌱 Studying Data Analyst (TripleTen). 
 - 📫 Contact me on email: gucostapt@gmail.com
 - 😄 Pronouns: he/him
 
